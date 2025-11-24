@@ -51,4 +51,9 @@ print(f"Predicted House Price: ₹{predicted_price:,.0f}")
 - [Scikit-learn regression documentation](https://scikit-learn.org/stable/supervised_learning.html#supervised-learning)
 - Public housing datasets(kaggle)
 
+    # Dataset
+The full training dataset `house_prices.csv` is not included in this repository due to file size constraints.  
+- Please contact the project author or use the shared (https://www.kaggle.com/datasets/juhibhojani/house-price?resource=download) to obtain the dataset.
+- Place the file in the root project directory before running code.
+
 
